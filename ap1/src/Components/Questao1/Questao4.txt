@@ -1,0 +1,3 @@
+Com o uso de contextos pode-se evitar a passagem de hierarquia de props, no qual o props vai traçando um caminho até chegar
+no elemento destino, ou seja, o pros acaba passando os parametros para todos os elementos, mesmo os que não necessitam.
+com o contexto é possível fazer uma passagem direta aos filhos
